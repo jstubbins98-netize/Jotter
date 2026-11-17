@@ -1,5 +1,0 @@
-{
-  "name": "jotter",
-  "version-string": "1.0.0",
-  "dependencies": ["qtbase", "openssl", "libzip"]
-}
