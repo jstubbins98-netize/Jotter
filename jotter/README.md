@@ -1,8 +1,6 @@
 # jotter
 
-A native C++20 / Qt 6 Widgets journal application for Windows 11.
-This is a desktop application, **not a website**. The browser preview does not
-run it. Open this `jotter` folder in Visual Studio to build the Windows app.
+A native C++20 / Qt 6 Widgets journal application for Windows 11. Open this `jotter` folder in Visual Studio to build the Windows app.
 
 ## Features
 
